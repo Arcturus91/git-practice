@@ -1,0 +1,3 @@
+Name: Arturo Barrantes
+Age: 30
+Favorite Color: Blue
